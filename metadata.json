@@ -1,0 +1,11 @@
+{
+  "name": "Pusher + Auth0",
+  "type": "sample",
+  "tags": [
+    "pusher",
+    "web",
+    "nodejs",
+    "javascript",
+    "single-page-app"
+  ]
+}
